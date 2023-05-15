@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-program&show_icons=true&locale=en" alt="sameer-program" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarpoudel&" alt="sameer-program" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-program&" alt="sameer-program" /></p>
