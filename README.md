@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-program&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-program" /> </p>
 
-- 🔭 I’m currently working on **AdBreakMedia**
+- 🔭 I’m currently working as frontend developer on **AdBreakMedia**
 
 - 🌱 I’m currently learning **Next Js**
 
