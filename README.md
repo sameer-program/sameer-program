@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-program&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-program" /> </p>
 
-- 🔭 I’m currently working on **AdBreakMedia**
-
 - 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://luminous-moonbeam-9f976d.netlify.app/](https://luminous-moonbeam-9f976d.netlify.app/)
